@@ -2,11 +2,11 @@
 ⚡ Apaixonado por tecnologia e programação.
 
 Desenvolvedor dos seguintes sistemas SAAS:
-https://mercurioapp.com.br
-https://pixapay.com.br
-https://policiaonlineapp.com.br
+- [Mercúrio](https://mercurioapp.com.br)
+- [PixaPay](https://pixapay.com.br)
+- [Polícia online](https://policiaonlineapp.com.br)
 
-[Youtube](https://youtube.com)
+[Canal do youtube](https://www.youtube.com/channel/UCkD0RaQ5TGB0e73zyfYuvSw)
 
 
 <!--
