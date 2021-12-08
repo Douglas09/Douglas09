@@ -6,7 +6,7 @@ Desenvolvedor dos seguintes sistemas SAAS:
 - [PixaPay](https://pixapay.com.br)
 - [Polícia online](https://policiaonlineapp.com.br)
 
-[Canal do youtube](https://www.youtube.com/channel/UCkD0RaQ5TGB0e73zyfYuvSw)
+[Canal do youtube](https://www.youtube.com/channel/UCyHhocrNAX9BAvgj6ZGzMbw)
 
 
 <!--
