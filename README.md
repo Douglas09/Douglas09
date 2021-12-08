@@ -1,6 +1,14 @@
 ### ✨ _Seja muito bem vindo ao meu perfil!!_ ✨
 ⚡ Apaixonado por tecnologia e programação.
 
+Desenvolvedor dos seguintes sistemas SAAS:
+https://mercurioapp.com.br
+https://pixapay.com.br
+https://policiaonlineapp.com.br
+
+[Youtube](https://youtube.com)
+
+
 <!--
 **Douglas09/Douglas09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
