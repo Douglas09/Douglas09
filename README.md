@@ -9,6 +9,7 @@ Desenvolvedor dos seguintes sistemas SAAS:
 
 [Canal do youtube](https://www.youtube.com/channel/UCyHhocrNAX9BAvgj6ZGzMbw)
 
+[Linkedin](https://www.linkedin.com/in/douglas-colombo-2a0718239)
 
 <!--
 **Douglas09/Douglas09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
