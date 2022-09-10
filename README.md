@@ -6,6 +6,7 @@ Desenvolvedor dos seguintes sistemas SAAS:
 - [Mercúrio](https://mercurioapp.com.br)
 - [PixaPay](https://pixapay.com.br)
 - [Polícia online](http://policiaonlineapp.com.br)
+- [Buzoli Promoções](http://buzoli.com.br)
 
 [Canal do youtube](https://www.youtube.com/channel/UCyHhocrNAX9BAvgj6ZGzMbw)
 
