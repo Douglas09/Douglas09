@@ -7,6 +7,7 @@ Desenvolvedor dos seguintes sistemas SAAS:
 - [PixaPay](https://pixapay.com.br)
 - [Polícia online](http://policiaonlineapp.com.br)
 - [Buzoli Promoções](http://buzoli.com.br)
+- [Rei do bailão](http://clubereidobailao.com.br)
 
 [Canal do youtube](https://www.youtube.com/channel/UCyHhocrNAX9BAvgj6ZGzMbw)
 
