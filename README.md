@@ -1,6 +1,8 @@
 ### ✨ _Seja muito bem vindo ao meu perfil!!_ ✨
 ⚡ Apaixonado por tecnologia e programação.
 
+Contato: (51) 9 9550-2636
+
 Desenvolvedor dos seguintes sistemas SAAS:
 - [Immo](https://www.alfasistemas.com.br/sistema/immo)
 - [Mercúrio](https://mercurioapp.com.br)
@@ -16,8 +18,6 @@ Desenvolvedor dos seguintes sistemas SAAS:
 
 <!--
 **Douglas09/Douglas09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Contato: (51) 9 9550-2636
 
 Here are some ideas to get you started:
 
