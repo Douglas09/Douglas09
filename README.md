@@ -1,7 +1,7 @@
 ### ✨ _Seja muito bem vindo ao meu perfil!!_ ✨
 ⚡ Apaixonado por tecnologia e programação.
 
-Contato: (51) 9 9550-2636
+[Whatsapp](https://api.whatsapp.com/send?phone=5551995502636&text=Ol%C3%A1%20Douglas%20Colombo)
 
 Desenvolvedor dos seguintes sistemas SAAS:
 - [Immo](https://www.alfasistemas.com.br/sistema/immo)
