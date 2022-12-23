@@ -9,9 +9,8 @@ Desenvolvedor dos seguintes sistemas SAAS:
 - [Buzoli Promoções](http://buzoli.com.br)
 - [Rei do bailão](http://clubereidobailao.com.br)
 
-[Canal do youtube](https://www.youtube.com/channel/UCyHhocrNAX9BAvgj6ZGzMbw)
-
 [Whatsapp](https://api.whatsapp.com/send?phone=5551995502636&text=Ol%C3%A1%20Douglas%20Colombo) |
+[Youtube](https://www.youtube.com/channel/UCyHhocrNAX9BAvgj6ZGzMbw) |
 [Linkedin](https://www.linkedin.com/in/douglas-colombo-2a0718239) | 
 [Instagram](https://www.instagram.com/douglascolombo09/)
 
