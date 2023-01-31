@@ -1,6 +1,8 @@
 ### ✨ _Seja muito bem vindo ao meu perfil!!_ ✨
 ⚡ Apaixonado por tecnologia e programação.
 
+Formação: **Análise e desenvolvimento de sistemas**
+
 Desenvolvedor dos seguintes sistemas SAAS:
 - [Immo](https://www.alfasistemas.com.br/sistema/immo)
 - [Mercúrio](https://mercurioapp.com.br)
