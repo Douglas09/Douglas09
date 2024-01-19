@@ -11,6 +11,10 @@ Desenvolvedor dos seguintes sistemas SAAS:
 - [Buzoli Promoções](http://buzoli.com.br)
 - [Rei do bailão](http://clubereidobailao.com.br)
 
+- Sicos - Aplicativo escolar / Agenda digital [Android](https://play.google.com/store/apps/details?id=com.sicos.escolarApp) [IOS (Aguardando lançamento)](https://google.com.br)
+
+
+
 [Whatsapp](https://api.whatsapp.com/send?phone=5551995502636&text=Ol%C3%A1%20Douglas%20Colombo) |
 [Youtube](https://www.youtube.com/channel/UCyHhocrNAX9BAvgj6ZGzMbw) |
 [Linkedin](https://www.linkedin.com/in/douglas-colombo-2a0718239) | 
