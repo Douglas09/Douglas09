@@ -1,7 +1,7 @@
 ### ✨ _Seja muito bem vindo ao meu perfil!!_ ✨
 ⚡ Apaixonado por tecnologia e programação.
 
-😄 **Formando em "Análise e desenvolvimento de sistemas" - [Ampli](https://www.ampli.com.br)** 😄
+😄 **Analista de sistemas" - [Ampli](https://www.ampli.com.br)** 😄
 
 Desenvolvedor dos seguintes sistemas SAAS:
 - [Immo](https://www.alfasistemas.com.br/sistema/immo)
