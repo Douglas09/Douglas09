@@ -6,7 +6,7 @@
 Desenvolvedor dos seguintes sistemas SAAS:
 - [Immo](https://www.alfasistemas.com.br/sistema/immo)
 - [Mercúrio](https://mercurioapp.com.br) / [Google Play](https://play.google.com/store/apps/details?id=com.tecno.mobi.MercurioApp)
-- [PixaPay](https://pixapay.com.br)
+- [PixaPay](https://pixapay.com.br) / [Google Play](https://play.google.com/store/apps/details?id=br.com.mercurioapp.pixapay)
 - [Polícia online](http://policiaonlineapp.com.br)
 - [Buzoli Promoções](http://buzoli.com.br)
 - [Rei do bailão](http://clubereidobailao.com.br)
