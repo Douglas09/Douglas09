@@ -10,7 +10,7 @@ Desenvolvedor dos seguintes sistemas SAAS:
 - [Polícia online](http://policiaonlineapp.com.br)
 - [Buzoli Promoções](http://buzoli.com.br)
 - [Rei do bailão](http://clubereidobailao.com.br)
-- [Agenda escolar digital](https://sicos.com.br) ([Android](https://play.google.com/store/apps/details?id=com.sicos.escolarApp) / [IOS (Aguardando lançamento)](https://google.com.br))
+- [Agenda escolar digital](https://sicos.com.br) ([Android](https://play.google.com/store/apps/details?id=com.sicos.escolarApp) / [IOS](https://apps.apple.com/us/app/agenda-digital-escolar/id6476892786))
 
 
 [Whatsapp](https://api.whatsapp.com/send?phone=5551995502636&text=Ol%C3%A1%20Douglas%20Colombo) |
