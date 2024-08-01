@@ -17,6 +17,8 @@ Desenvolvedor dos seguintes sistemas SAAS:
 [Linkedin](https://www.linkedin.com/in/douglas-colombo-2a0718239) | 
 [Instagram](https://www.instagram.com/douglascolombo09/) |
 [Workana](https://www.workana.com/freelancer/0edee5d9e4ced0e5fedbd102d0bc69e3) 
+[Alura](https://cursos.alura.com.br/user/douglascolombo77) 
+
 
 <!--
 **Douglas09/Douglas09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
