@@ -4,7 +4,6 @@
 😄 **Analista de sistemas - [Ampli](https://www.ampli.com.br)** 😄
 
 Desenvolvedor dos seguintes sistemas SAAS:
-- [Immo](https://www.alfasistemas.com.br/sistema/immo)
 - [Mercúrio](https://mercurioapp.com.br) ([Android](https://play.google.com/store/apps/details?id=com.tecno.mobi.MercurioApp))
 - [PixaPay](https://pixapay.com.br) ([Android](https://play.google.com/store/apps/details?id=br.com.mercurioapp.pixapay))
 - [Polícia online](http://policiaonlineapp.com.br)
