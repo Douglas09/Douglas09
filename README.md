@@ -6,7 +6,6 @@
 Desenvolvedor dos seguintes sistemas SAAS:
 - [Mercúrio](https://mercurioapp.com.br) ([Android](https://play.google.com/store/apps/details?id=com.tecno.mobi.MercurioApp))
 - [PixaPay](https://pixapay.com.br) ([Android](https://play.google.com/store/apps/details?id=br.com.mercurioapp.pixapay))
-- [Polícia online](http://policiaonlineapp.com.br)
 - [Buzoli Promoções](http://buzoli.com.br)
 - [Agenda escolar digital](https://sicos.com.br) ([Android](https://play.google.com/store/apps/details?id=com.sicos.escolarApp) / [IOS](https://apps.apple.com/us/app/agenda-digital-escolar/id6476892786))
 
