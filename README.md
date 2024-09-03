@@ -5,8 +5,8 @@
 
 Desenvolvedor dos seguintes sistemas SAAS:
 - [Dentifica - Sistema odontológico](https://dentifica.com.br) (Em desenvolvimento)
-- [PixaPay](https://pixapay.com.br) ([Android](https://play.google.com/store/apps/details?id=br.com.mercurioapp.pixapay))
-- [Mercúrio](https://mercurioapp.com.br) ([Android](https://play.google.com/store/apps/details?id=com.tecno.mobi.MercurioApp))
+- [PixaPay - Fintech](https://pixapay.com.br) ([Android](https://play.google.com/store/apps/details?id=br.com.mercurioapp.pixapay))
+- [Mercúrio - ERP](https://mercurioapp.com.br) ([Android](https://play.google.com/store/apps/details?id=com.tecno.mobi.MercurioApp))
 - [Buzoli Promoções](http://buzoli.com.br)
 - [Agenda escolar digital](https://sicos.com.br) ([Android](https://play.google.com/store/apps/details?id=com.sicos.escolarApp) / [IOS](https://apps.apple.com/us/app/agenda-digital-escolar/id6476892786))
 
