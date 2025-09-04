@@ -33,6 +33,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-</br>
-<p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/Douglas09/count.svg"/></p>
